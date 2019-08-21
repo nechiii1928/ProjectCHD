@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">chdefforts</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="facebook_app_id">471380156746737</string>
+    <string name="fb_login_protocol_scheme">fb471380156746737</string>
+
+</resources>
